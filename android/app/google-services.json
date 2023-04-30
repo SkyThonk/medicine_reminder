@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "50797373153",
+    "project_id": "medicine-reminder-t",
+    "storage_bucket": "medicine-reminder-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50797373153:android:f95b607f214623559cf9a0",
+        "android_client_info": {
+          "package_name": "com.example.medicine_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50797373153-7gdgo0gd7nv9i4rgio4al0ieecq6cmth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgWHWkcVy7abdXXt3huAOflDVWg1aM6E"
+        }
+      ],
+      "certificate": {
+        "type": "sha1",
+        "path": "../debug.keystore",
+        "sha1_hash": "9F:DE:38:35:FF:83:77:6E:FA:76:61:69:B5:20:46:B0:09:40:84:C0"
+    },
+    
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50797373153-12emuio4st51begieda6t7ei8574jv5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50797373153-apm8hv4qfrnsh9okdadq9mu48hacpiv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicineReminder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
